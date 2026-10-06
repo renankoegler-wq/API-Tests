@@ -1,0 +1,485 @@
+[
+
+  {
+    "id": 1,
+    "nome": "Satoru Gojo",
+    "clã": "Gojo",
+    "idade": 29,
+    "técnica amaldiçoada": "Ilimitado",
+    "pecularidade": "6 olhos"
+  },
+  {
+    "id": 2,
+    "nome": "Itadori Yuji",
+    "clã": "Itadori",
+    "idade": 15,
+    "técnica amaldiçoada": "Santuário",
+    "pecularidade": "É o portador do Sukuna"
+  },
+  {
+    "id": 3,
+    "nome": "Megumi Fushiguro",
+    "clã": "Zenin",
+    "idade": 15,
+    "técnica amaldiçoada": "10 Sombras",
+    "pecularidade": "É o único portador das 10 Sombras no mundo atual"
+  },
+  {
+    "id": 4,
+    "nome": "Nobara Kugisaki",
+    "clã": "Kugisaki",
+    "idade": 16,
+    "técnica amaldiçoada": "Boneco de Palha",
+    "pecularidade": "Não possui uma peculiaridade especial"
+  },
+  {
+    "id": 5,
+    "nome": "Ryomen Sukuna",
+    "clã": "Desconhecido",
+    "idade": 1000,
+    "técnica amaldiçoada": "Santuário",
+    "pecularidade": "Rei das Maldições"
+  },
+  {
+    "id": 6,
+    "nome": "Yuta Okkotsu",
+    "clã": "Okkotsu",
+    "idade": 17,
+    "técnica amaldiçoada": "Cópia",
+    "pecularidade": "Possui uma enorme quantidade de energia amaldiçoada"
+  },
+  {
+    "id": 7,
+    "nome": "Maki Zenin",
+    "clã": "Zenin",
+    "idade": 16,
+    "técnica amaldiçoada": "Nenhuma",
+    "pecularidade": "Restrição Celestial"
+  },
+  {
+    "id": 8,
+    "nome": "Toji Fushiguro",
+    "clã": "Zenin",
+    "idade": 30,
+    "técnica amaldiçoada": "Nenhuma",
+    "pecularidade": "Restrição Celestial"
+  },
+  {
+    "id": 9,
+    "nome": "Suguru Geto",
+    "clã": "Geto",
+    "idade": 27,
+    "técnica amaldiçoada": "Manipulação de Espíritos Amaldiçoados",
+    "pecularidade": "Pode controlar maldições que derrota"
+  },
+  {
+    "id": 10,
+    "nome": "Kenjaku",
+    "clã": "Desconhecido",
+    "idade": 1000,
+    "técnica amaldiçoada": "Transplante cerebral",
+    "pecularidade": "Pode assumir o corpo de outras pessoas"
+  },
+  {
+    "id": 11,
+    "nome": "Mahito",
+    "clã": "Maldição",
+    "idade": 1,
+    "técnica amaldiçoada": "Transfiguração Ociosa",
+    "pecularidade": "Manipula a alma dos seres humanos"
+  },
+  {
+    "id": 12,
+    "nome": "Jogo",
+    "clã": "Maldição",
+    "idade": "sem informação",
+    "técnica amaldiçoada": "Desastre das Chamas",
+    "pecularidade": "Maldição de grau especial"
+  },
+  {
+    "id": 13,
+    "nome": "Hanami",
+    "clã": "Maldição",
+    "idade": "sem informação",
+    "técnica amaldiçoada": "Desastre das Plantas",
+    "pecularidade": "Possui grande resistência física"
+  },
+  {
+    "id": 14,
+    "nome": "Dagon",
+    "clã": "Maldição",
+    "idade": "sem informação",
+    "técnica amaldiçoada": "Horizonte Cativante do Skandha",
+    "pecularidade": "Pode criar um domínio extremamente poderoso"
+  },
+  {
+    "id": 15,
+    "nome": "Choso",
+    "clã": "Kamo",
+    "idade": 150,
+    "técnica amaldiçoada": "Manipulação de Sangue",
+    "pecularidade": "É um dos Pinturas da Morte"
+  },
+  {
+    "id": 16,
+    "nome": "Noritoshi Kamo",
+    "clã": "Kamo",
+    "idade": 17,
+    "técnica amaldiçoada": "Manipulação de Sangue",
+    "pecularidade": "É membro de um dos três grandes clãs"
+  },
+  {
+    "id": 17,
+    "nome": "Aoi Todo",
+    "clã": "Desconhecido",
+    "idade": 18,
+    "técnica amaldiçoada": "Boogie Woogie",
+    "pecularidade": "Possui força física excepcional"
+  },
+  {
+    "id": 18,
+    "nome": "Kento Nanami",
+    "clã": "Nanami",
+    "idade": 27,
+    "técnica amaldiçoada": "Proporção",
+    "pecularidade": "Ex-feiticeiro e ex-funcionário de escritório"
+  },
+  {
+    "id": 19,
+    "nome": "Mei Mei",
+    "clã": "Desconhecido",
+    "idade": 31,
+    "técnica amaldiçoada": "Manipulação de Corvos",
+    "pecularidade": "Feiticeira extremamente focada em dinheiro"
+  },
+  {
+    "id": 20,
+    "nome": "Ui Ui",
+    "clã": "Desconhecido",
+    "idade": 11,
+    "técnica amaldiçoada": "Técnica de Teletransporte",
+    "pecularidade": "É extremamente leal à Mei Mei"
+  },
+  {
+    "id": 21,
+    "nome": "Shoko Ieiri",
+    "clã": "Ieiri",
+    "idade": 28,
+    "técnica amaldiçoada": "Técnica Reversa",
+    "pecularidade": "Uma das poucas pessoas capazes de curar outras pessoas"
+  },
+  {
+    "id": 22,
+    "nome": "Masamichi Yaga",
+    "clã": "Yaga",
+    "idade": 47,
+    "técnica amaldiçoada": "Manipulação de Bonecos Amaldiçoados",
+    "pecularidade": "Criou o Panda"
+  },
+  {
+    "id": 23,
+    "nome": "Panda",
+    "clã": "Nenhum",
+    "idade": 16,
+    "técnica amaldiçoada": "Manipulação de Energia Amaldiçoada",
+    "pecularidade": "É um cadáver amaldiçoado mutante"
+  },
+  {
+    "id": 24,
+    "nome": "Kinji Hakari",
+    "clã": "Hakari",
+    "idade": 18,
+    "técnica amaldiçoada": "Apostador",
+    "pecularidade": "Seu domínio funciona como uma máquina de pachinko"
+  },
+  {
+    "id": 25,
+    "nome": "Kirara Hoshi",
+    "clã": "Hoshi",
+    "idade": 18,
+    "técnica amaldiçoada": "Amor Estelar",
+    "pecularidade": "Pode manipular a atração entre objetos"
+  },
+  {
+    "id": 26,
+    "nome": "Hajime Kashimo",
+    "clã": "Kashimo",
+    "idade": 400,
+    "técnica amaldiçoada": "Eletricidade",
+    "pecularidade": "Era um dos feiticeiros mais poderosos da Era Heian"
+  },
+  {
+    "id": 27,
+    "nome": "Yuki Tsukumo",
+    "clã": "Tsukumo",
+    "idade": 28,
+    "técnica amaldiçoada": "Fúria Estelar",
+    "pecularidade": "Uma das quatro feiticeiras de grau especial"
+  },
+  {
+    "id": 28,
+    "nome": "Toge Inumaki",
+    "clã": "Inumaki",
+    "idade": 17,
+    "técnica amaldiçoada": "Fala Amaldiçoada",
+    "pecularidade": "Fala utilizando palavras de ingredientes de onigiri"
+  },
+  {
+    "id": 29,
+    "nome": "Mai Zenin",
+    "clã": "Zenin",
+    "idade": 16,
+    "técnica amaldiçoada": "Construção",
+    "pecularidade": "É irmã gêmea de Maki"
+  },
+  {
+    "id": 30,
+    "nome": "Naobito Zenin",
+    "clã": "Zenin",
+    "idade": 71,
+    "técnica amaldiçoada": "Projeção",
+    "pecularidade": "Foi o 26º chefe do clã Zenin"
+  }
+  {
+    "id": 31,
+    "nome": "Uraume",
+    "clã": "Desconhecido",
+    "idade": 1000,
+    "técnica amaldiçoada": "Formação de Gelo",
+    "pecularidade": "É um dos principais aliados de Sukuna"
+  },
+  {
+    "id": 32,
+    "nome": "Naoya Zenin",
+    "clã": "Zenin",
+    "idade": 27,
+    "técnica amaldiçoada": "Projeção",
+    "pecularidade": "Tornou-se uma maldição após sua morte"
+  },
+  {
+    "id": 33,
+    "nome": "Ogi Zenin",
+    "clã": "Zenin",
+    "idade": 54,
+    "técnica amaldiçoada": "Chamas",
+    "pecularidade": "É pai de Maki e Mai"
+  },
+  {
+    "id": 34,
+    "nome": "Jinichi Zenin",
+    "clã": "Zenin",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Criação de Punhos Gigantes",
+    "pecularidade": "É um membro importante do clã Zenin"
+  },
+  {
+    "id": 35,
+    "nome": "Momo Nishimiya",
+    "clã": "Nishimiya",
+    "idade": 18,
+    "técnica amaldiçoada": "Manipulação de Vassoura",
+    "pecularidade": "Pode voar utilizando sua vassoura"
+  },
+  {
+    "id": 36,
+    "nome": "Kasumi Miwa",
+    "clã": "Miwa",
+    "idade": 17,
+    "técnica amaldiçoada": "Novo Estilo de Sombra",
+    "pecularidade": "É conhecida por sua habilidade com espada"
+  },
+  {
+    "id": 37,
+    "nome": "Kokichi Muta",
+    "clã": "Muta",
+    "idade": 17,
+    "técnica amaldiçoada": "Manipulação de Marionetes",
+    "pecularidade": "Utilizava o Mechamaru para lutar à distância"
+  },
+  {
+    "id": 38,
+    "nome": "Yoshinobu Gakuganji",
+    "clã": "Gakuganji",
+    "idade": 76,
+    "técnica amaldiçoada": "Manipulação de Música",
+    "pecularidade": "É o diretor da Escola de Kyoto"
+  },
+  {
+    "id": 39,
+    "nome": "Utahime Iori",
+    "clã": "Iori",
+    "idade": 31,
+    "técnica amaldiçoada": "Solo Proibido",
+    "pecularidade": "Pode aumentar a energia amaldiçoada de outros feiticeiros"
+  },
+  {
+    "id": 40,
+    "nome": "Miguel",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Desconhecida",
+    "pecularidade": "É um feiticeiro extremamente habilidoso originário da África"
+  },
+  {
+    "id": 41,
+    "nome": "Larue",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Manipulação de Corações",
+    "pecularidade": "Foi membro do grupo de Geto"
+  },
+  {
+    "id": 42,
+    "nome": "Takuma Ino",
+    "clã": "Ino",
+    "idade": 21,
+    "técnica amaldiçoada": "Invocação Auspiciosa",
+    "pecularidade": "Utiliza uma máscara para invocar quatro criaturas"
+  },
+  {
+    "id": 43,
+    "nome": "Atsuya Kusakabe",
+    "clã": "Kusakabe",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Novo Estilo de Sombra",
+    "pecularidade": "É considerado um dos feiticeiros de grau 1 mais habilidosos"
+  },
+  {
+    "id": 44,
+    "nome": "Reggie Star",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Contrato",
+    "pecularidade": "Pode transformar recibos em objetos através de sua técnica"
+  },
+  {
+    "id": 45,
+    "nome": "Hana Kurusu",
+    "clã": "Kurusu",
+    "idade": 17,
+    "técnica amaldiçoada": "Técnica de Extinção",
+    "pecularidade": "Divide o corpo com o espírito conhecido como Anjo"
+  },
+  {
+    "id": 46,
+    "nome": "Angel",
+    "clã": "Desconhecido",
+    "idade": 1000,
+    "técnica amaldiçoada": "Técnica de Extinção",
+    "pecularidade": "Pode anular outras técnicas amaldiçoadas"
+  },
+  {
+    "id": 47,
+    "nome": "Ryu Ishigori",
+    "clã": "Ishigori",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Canhão de Energia Amaldiçoada",
+    "pecularidade": "Possui uma das maiores produções de energia amaldiçoada conhecidas"
+  },
+  {
+    "id": 48,
+    "nome": "Takako Uro",
+    "clã": "Uro",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Manipulação do Céu",
+    "pecularidade": "Pode distorcer o espaço como se fosse uma superfície"
+  },
+  {
+    "id": 49,
+    "nome": "Kurourushi",
+    "clã": "Maldição",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Manipulação de Baratas",
+    "pecularidade": "É uma maldição de grau especial"
+  },
+  {
+    "id": 50,
+    "nome": "Dhruv Lakdawalla",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Shikigami",
+    "pecularidade": "Conquistou o Japão em uma de suas encarnações"
+  },
+  {
+    "id": 51,
+    "nome": "Yorozu",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Construção",
+    "pecularidade": "É uma feiticeira da Era Heian e possui uma Expansão de Domínio"
+  },
+  {
+    "id": 52,
+    "nome": "Hazenoki Iori",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Explosão Corporal",
+    "pecularidade": "Pode transformar partes do próprio corpo em explosivos"
+  },
+  {
+    "id": 53,
+    "nome": "Charles Bernard",
+    "clã": "Bernard",
+    "idade": 19,
+    "técnica amaldiçoada": "G Warstaff",
+    "pecularidade": "Pode prever acontecimentos futuros através de seus desenhos"
+  },
+  {
+    "id": 54,
+    "nome": "Fumihiko Takaba",
+    "clã": "Takaba",
+    "idade": 35,
+    "técnica amaldiçoada": "Comediante",
+    "pecularidade": "Pode transformar aquilo que considera engraçado em realidade"
+  },
+  {
+    "id": 55,
+    "nome": "Hagane Daido",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Nenhuma",
+    "pecularidade": "Possui uma capacidade física excepcional e uma percepção extraordinária"
+  },
+  {
+    "id": 56,
+    "nome": "Miyo Rokujyuushi",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Nenhuma",
+    "pecularidade": "É um mestre de sumô extremamente habilidoso"
+  },
+  {
+    "id": 57,
+    "nome": "Chizuru Hari",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Desconhecida",
+    "pecularidade": "É um feiticeiro participante do Jogo do Abate"
+  },
+  {
+    "id": 58,
+    "nome": "Haba",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Helicóptero",
+    "pecularidade": "Possui hélices de helicóptero incorporadas à cabeça"
+  },
+  {
+    "id": 59,
+    "nome": "Hanyu",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Avião",
+    "pecularidade": "Possui características físicas semelhantes às de um avião"
+  },
+  {
+    "id": 60,
+    "nome": "Remi",
+    "clã": "Desconhecido",
+    "idade": "Desconhecida",
+    "técnica amaldiçoada": "Escorpião",
+    "pecularidade": "Utiliza sua aparência para manipular e enganar outros jogadores"
+  }
+
+
+]
